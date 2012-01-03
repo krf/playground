@@ -1,3 +1,4 @@
-=== Playground ===
+Playground
+===
 
 My playground.
