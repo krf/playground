@@ -2,6 +2,7 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
+#include <QMetaType>
 #include <QVector>
 
 class MainWindow : public QMainWindow
